@@ -9,7 +9,6 @@
 	 <!-- ====================================================================== -->
 	 <!-- Defining classpaths & Task Defs & Test                                       -->
 	 <!-- ====================================================================== -->
-		<!-- ====================================================================== -->
 	<property environment="env"/> 
 	<property name="installpath.pmd" value="${env.PMD_HOME}/lib"/> 
 	<property name="pmd.installpath" value="${env.PMD_HOME}/lib"/>
