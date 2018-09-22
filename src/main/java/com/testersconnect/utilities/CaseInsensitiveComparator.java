@@ -6,6 +6,7 @@ import java.util.Date;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+//Class for Case Insensitive Comparison
 public class CaseInsensitiveComparator extends GenericComparator {
 
         private static final long serialVersionUID = -6836701171640412573L;
