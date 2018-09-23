@@ -56,4 +56,11 @@ public class TestHexAsciiConversion {
 		
 	}
 	
+	@Test
+
+	public void demoTest()
+	{
+		System.out.println("Demo Test");
+	}
+	
 }
